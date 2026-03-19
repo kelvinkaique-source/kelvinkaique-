@@ -69,8 +69,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Minha jornada na á
 ## 📫 Contato  
 - LinkedIn: [seu-linkedin](https://www.linkedin.com/in/kelvin-kaique-85b9172b6/)
 - Email: kelvinkaique@gmail.com
-- [Sistema de Gestão Escolar](https://github.com/kelvinkaique-source/sistema-escolar)
 - [API de E-commerce](https://github.com/kelvinkaique-source/ecommerce-api)
+- 
 <div align="center">
 
 # 🐍 Snake Animation  
