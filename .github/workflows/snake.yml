@@ -8,21 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@master
         with:
           github_user_name: kelvinkaique-source 
-          svg_out_path: dist/snake.svg
-
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+          outputs: dist/snake.svg
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
