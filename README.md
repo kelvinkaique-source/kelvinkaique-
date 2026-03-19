@@ -74,7 +74,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Minha jornada na á
 ## 📫 Contato  
 - LinkedIn: [seu-linkedin](https://www.linkedin.com/in/kelvin-kaique-85b9172b6/)  
 - Email: kelvinkaique@gmail.com
-- <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" /> 
+- <img src="https://kelvinkaique-source/kelvinkaique-/gitrepo/output/snake.svg" alt="Snake animation" /> 
 
 
 ---
