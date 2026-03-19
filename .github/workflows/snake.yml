@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: SEU_USUARIO
+          github_user_name: kelvinkaique-source/kelvinkaique-
           outputs: dist/snake.svg
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2
