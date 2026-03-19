@@ -1,6 +1,28 @@
 # kelvinkaique-
 Portfólio – Kelvin Kaique Nunes da Silva
-# 👋 Olá, eu sou kaique   
+# 👋 Olá, eu sou kaique 
+<div align="center">
+
+# 🏆 Minhas Conquistas & Experiências  
+
+### 🚀 Conquistas
+- Participação em projetos open-source e colaboração com a comunidade  
+- Desenvolvimento de aplicações web completas (frontend + backend)  
+- Certificações em tecnologias como **AWS**, **Azure** e **Docker**  
+- Criação de APIs escaláveis e seguras  
+- Experiência com metodologias ágeis (Scrum/Kanban)  
+
+---
+
+### 💼 Experiência
+- **Desenvolvedor Full Stack**: Construção de sistemas web usando **React**, **Node.js** e **MongoDB**  
+- **Engenharia de Software**: Projetos acadêmicos e profissionais com foco em boas práticas e qualidade de código  
+- **DevOps**: Automação de pipelines CI/CD, uso de containers e deploy em nuvem  
+- **Banco de Dados**: Modelagem e otimização em **PostgreSQL** e **MySQL**  
+- **Segurança**: Implementação de autenticação JWT, OAuth2 e práticas de segurança em APIs  
+
+</div>
+
 
 ## 🚀 Sobre mim  
 Sou apaixonado por tecnologia e desenvolvimento de software. Minha jornada na área envolve constante aprendizado e prática em diferentes linguagens, frameworks e ferramentas. Busco sempre evoluir minhas habilidades e contribuir com projetos que façam diferença.  
