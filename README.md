@@ -78,7 +78,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Minha jornada na á
 
 # 🐍 Snake Animation  
 
-![Snake animation](https://github.com/kelvinkaique-source/blob/outputsnake.svg)
+![Snake animation](https://github.com/kelvinkaique-source/outputsnake.svg)
 
 </div>
 
