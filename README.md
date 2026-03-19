@@ -46,15 +46,13 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Minha jornada na á
 ---
 
 ## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)  
-
+![GitHub Stats](https://github.com/kelvinkaique-source)  
+  
 ---
-
 ## 📫 Contato  
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-linkedin)  
-- Email: seuemail@exemplo.com  
-- Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  
+- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/kelvin-kaique-85b9172b6/)  
+- Email: kelvinkaique@gmail.com  
+  
 
 ---
 
