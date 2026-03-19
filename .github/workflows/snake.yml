@@ -14,7 +14,7 @@ jobs:
           github_user_name: kelvinkaique-source/kelvinkaique-
           outputs: dist/snake.svg
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: kelvinkaique-source/kelvinkaique-
         with:
           target_branch: output
           build_dir: dist
