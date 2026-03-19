@@ -64,11 +64,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Minha jornada na á
 - Testes automatizados (Jest, Mocha, JUnit)  
 - Metodologias Ágeis (Scrum, Kanban)  
 - Segurança e boas práticas de código  
-
----
-
-## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github.com/kelvinkaique-source)  
   
 ---
 ## 📫 Contato  
